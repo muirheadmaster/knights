@@ -1,4 +1,4 @@
-# Problem Description and Instructions on Running the Project 
+# Grover Knights
 
 Welcome to my Knights project! We are so glad that you are here.
 <div align="center"> 
