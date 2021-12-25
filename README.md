@@ -1,12 +1,12 @@
 # Grover Knights
 
-Welcome to my Knights project! We are so glad that you are here.
+Welcome to my Knights project!
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/42923017/121147835-3d184f00-c80f-11eb-8cc5-a9710f9955fc.png" alt="Knights Photo" width="300">
 </div>
 
 ## Project Description:
-We explore an implementation of a quantum oracle for knights on a chessboard. This project should be a great resource for those seeking to solidify their understanding on implementing quantum oracles, as well as using such oracles within Grover's algorithm. We do not require the user to provide any input in the process.
+I explore an implementation of a quantum oracle for knights on a chessboard. This project should be a great resource for those seeking to solidify their understanding on implementing quantum oracles, as well as using such oracles within Grover's algorithm. I do not require the user to provide any input in the process.
 
 ## Instructions on Running the Project:
 The entirety of the project can be run on a jupyter notebook server, and the content can be accessed at "Knights.ipynb" with a Q# Kernel. 
